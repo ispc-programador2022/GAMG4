@@ -27,6 +27,8 @@
 
 - [Hector Daniel Gomez](https://github.com/GOMEZ-DANIEL)
 
+- [Victoriano Andres Chaile](https://github.com/andres777c)
+
 <br></br>
 # Consignas
 
