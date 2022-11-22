@@ -30,7 +30,7 @@
 - [Victoriano Andres Chaile](https://github.com/andres777c)
 
 <br></br>
-## [Resumen del proyecto trabajado]https://drive.google.com/drive/folders/1tGkJ6ik6BLb0ekSel1PU7-R90KqKncGs
+## [Resumen del proyecto trabajado](https://drive.google.com/file/d/1F3CSPNgDk9P5zGmmgxCebitH2qgByFLo/view?usp=share_link)
 # Consignas
 
 ## PROYECTO TECNOLÓGICO INTEGRADOR 2022 "PROYECTO GAMA"
